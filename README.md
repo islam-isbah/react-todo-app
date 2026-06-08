@@ -1,6 +1,6 @@
 # React Todo App
 
-A Todo List application built with React, Material UI, Context API, and Local Storage.
+A Todo List application built with React, Material UI, and Local Storage.
 
 ## Features
 
